@@ -10,30 +10,18 @@ This is one of three open source projects underway as part of the [Call for Code
 
 ## Contents
 
-1. [Overview](#overview)
+1. [How you can take part](#how-you-can-take-part)
 1. [Contributing](#contributing)
+1. [Overview](#overview)
 1. [The idea](#the-idea)
 1. [How it works](#how-it-works)
 1. [Diagrams](#diagrams)
-1. [Documents](#documents)
-1. [Datasets](#datasets)
-1. [Technology](#technology)
 1. [Getting started](#getting-started)
 1. [Resources](#resources)
 1. [Theme team leaders](#theme-team-leaders)
 1. [License](#license)
 
-## Overview
-
-### What's the problem?
-The global climate crisis is inextricably linked to water. Higher temperatures and more extreme weather events are projected to affect the availability and distribution of rainfall, snowmelt, river flows, and groundwater, and further deteriorate water quality. Low-income communities, already the most vulnerable to any threats to water supply, are likely to be the worst affected.
-
-Read the [UN policy on climate change and water](https://www.unwater.org/publications/un-water-policy-brief-on-climate-change-and-water/) and understand how you can make a difference.
-
-### How can technology help?
-Whether it's third-party open source projects or IBM Cloud services, technologies like data analytics, Internet of Things, artificial intelligence, and blockchain can help address global environmental challenges such as water quantity and quality. Using water more efficiently will reduce greenhouse gases from treatment systems. 
-
-## How you can take part in the Emb(race) Spot Challenge
+## How you can take part
 
 1. Understand the material in each of the solution starter repos
    - Read the problem description
@@ -63,6 +51,18 @@ This solution starter kit has been initiated by a core leadership team during a 
 As part of the Call for Code Emb(race) Challenge, we call on the the IBM and Red Hat community to guide the future of this solution towards an open source project that can be put into use at IBM and made available to the larger world.
 
 Contribution details are in the [CONTRIBUTING.md](blob/main/CONTRIBUTING.md) document. Common questions are in the [SUPPORT.md](blob/main/SUPPORT.md) file. But in a nutshell, you can contribute by opening issues to spark discussions, open pull requests to submit code or documentation changes, or create pages in the wiki.
+
+## Overview
+
+### What's the problem?
+
+The global climate crisis is inextricably linked to water. Higher temperatures and more extreme weather events are projected to affect the availability and distribution of rainfall, snowmelt, river flows, and groundwater, and further deteriorate water quality. Low-income communities, already the most vulnerable to any threats to water supply, are likely to be the worst affected.
+
+Read the [UN policy on climate change and water](https://www.unwater.org/publications/un-water-policy-brief-on-climate-change-and-water/) and understand how you can make a difference.
+
+### How can technology help?
+
+Whether it's third-party open source projects or IBM Cloud services, technologies like data analytics, Internet of Things, artificial intelligence, and blockchain can help address global environmental challenges such as water quantity and quality. Using water more efficiently will reduce greenhouse gases from treatment systems. 
 
 ## The idea
 

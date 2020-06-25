@@ -1,17 +1,17 @@
 # Diverse representation
 
-Leverage technology to prevent, detect, and remediate bias and misrepresentation in the workplace, products, and society. For corporations to succeed, it is critical to have Black representation at every level.
+Technology has the power to drive action. And right now, a call to action is needed to eradicate racism. **Black lives matter.**
 
-## Contributors
+We recognize technology alone cannot fix hundreds of years of racial injustice and inequality, but when we put it in the hands of the Black community and their supporters, technology can begin to bridge a gap. To start a dialogue. To identify areas where technology can help pave a road to progress.
 
-* Person 1 - Role
-* Person 2 - Role
+This project is an effort to leverage technology to prevent, detect, and remediate bias and misrepresentation in the workplace, products, and society. For corporations to succeed, it is critical to have Black representation at every level.
+
+This is one of three open source projects underway as part of the [Call for Code Emb(race) Spot Challenge](https://github.com/topics/embrace-call-for-code) led by contributors from IBM and Red Hat.
 
 ## Contents
 
-1. [Contributing](#contributing)
 1. [Overview](#overview)
-1. [Video](#video)
+1. [Contributing](#contributing)
 1. [The idea](#the-idea)
 1. [How it works](#how-it-works)
 1. [Diagrams](#diagrams)
@@ -20,27 +20,8 @@ Leverage technology to prevent, detect, and remediate bias and misrepresentation
 1. [Technology](#technology)
 1. [Getting started](#getting-started)
 1. [Resources](#resources)
+1. [Theme team leaders](#theme-team-leaders)
 1. [License](#license)
-
-## Contributing
-
-This solution starter kit has been initiated by a core leadership team during a Design Thinking session in June 2020, but it is intended to be a collaborative effort to bring technology to bear on an are where it can make an immediate and lasting impact.
-
-As part of the Call for Code emb(race) Challenge, we call on the the IBM community to guide the future of this solution towards an open source project that can be put into use at IBM and made available to the larger world.
-
-Contribution details are in the CONTRIBUTING.md document. But in a nutshell, you can contribute by opening issues to spark discussions, open pull requests to submit code or documentation changes, or create pages in the wiki.
-
-### Opening issues
-
-Issues are for suggesting and discussing changes to this solution starter. You don't have to be technical to add your thoughts here. You can suggest a change, add a view point, or spark a discussion.
-
-### Submitting pull requests
-
-If you have a specific change you want to contribute, whether code or documentation, you can fork this repository and submit a pull request with the concrete change.
-
-### Editing the wiki
-
-You are also free to provide documentation or notes through the wiki. The changes there can be merged into this repository directly, or they may serve as outside documentation.
 
 ## Overview
 
@@ -52,9 +33,36 @@ Read the [UN policy on climate change and water](https://www.unwater.org/publica
 ### How can technology help?
 Whether it's third-party open source projects or IBM Cloud services, technologies like data analytics, Internet of Things, artificial intelligence, and blockchain can help address global environmental challenges such as water quantity and quality. Using water more efficiently will reduce greenhouse gases from treatment systems. 
 
-## Video
+## How you can take part in the Emb(race) Spot Challenge
 
-[![Call for Code Solution Starter: Water sustainability in the context of climate change ](https://img.youtube.com/vi/hC2b-iP6Rxc/0.jpg)](https://www.youtube.com/watch?v=hC2b-iP6Rxc)
+1. Understand the material in each of the solution starter repos
+   - Read the problem description
+   - Read the potential use case to solve it
+   - Digest the resources for learning about the issue
+1. Envision how technology can make a positive impact on the issue
+   - Understand the sample use case description
+   - Imagine the measurable end result of the technology innovation
+   - Plot a path from the current situation to that outcome
+1. Engage the theme leaders and community
+   - Discuss topics in the Slack channel: #emb-race-cfc-challenge
+   - Break out into groups organized around specific subtopics, or join office hours
+   - Consolidate information. You can use Box or a tool outside of GitHub to collaborate.
+1. Learn about open source at IBM
+   - Visit the w3 Developer site
+   - Get a GitHub account
+   - Learn GitHub basics
+1. Contribute to the repositories
+   - Open issues to start conversations
+   - Fork the repositories to send pull requests
+   - Earn GitHub maintainer access
+
+## Contributing
+
+This solution starter kit has been initiated by a core leadership team during a Design Thinking session in June 2020, but it is intended to be a collaborative effort to bring technology to bear on an area where it can make an immediate and lasting impact.
+
+As part of the Call for Code Emb(race) Challenge, we call on the the IBM and Red Hat community to guide the future of this solution towards an open source project that can be put into use at IBM and made available to the larger world.
+
+Contribution details are in the [CONTRIBUTING.md](blob/main/CONTRIBUTING.md) document. Common questions are in the [SUPPORT.md](blob/main/SUPPORT.md) file. But in a nutshell, you can contribute by opening issues to spark discussions, open pull requests to submit code or documentation changes, or create pages in the wiki.
 
 ## The idea
 
@@ -74,7 +82,7 @@ By combining cloud-native infrastructure with event-driven data processing and i
 
 ## Diagrams
 
-![Challenge 1 Architecture](/images/Challenge_1_Architecture.png?raw=true "Challenge 1 Architecture")
+![Challenge 1 Architecture](/images/Embrace-Diverse-Representation-Architecture.png?raw=true "Diverse Representation Architecture")
 
 This solution starter idea combines machine learning models with real-time information to get users the information they need to take action quickly.
 
@@ -82,93 +90,51 @@ This solution starter idea combines machine learning models with real-time infor
 1. These models could then be referenced by various applications to collect information about the current situation and provide end users with the assessments.
 1. By rating the success of the recommendation, users can provide information that will help others in turn during future situations to build back better.
 
-## Documents
-
-- [Terminology on disaster risk reduction](https://www.unisdr.org/we/inform/terminology)
-- [Using global indicators to measure progress](https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf)
-
-## Datasets
-
-- [Malawi Spatial Data Platform (MASDAP)](http://www.masdap.mw/)
-- [Land Usage from MASDAP](http://www.masdap.mw/layers/osm:osm_landusages)
-- [Malawi Disaster & Risk Profile](https://www.preventionweb.net/countries/mwi/data/)
-- [Disparities in Cellphone Ownership Pose Challenges in Africa](https://news.gallup.com/poll/189269/disparities-cellphone-ownership-pose-challenges-africa.aspx)
-
-## Technology
-
-- [Generate insights from multiple data sources](https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/)
-- [Transform and load big data CSV files into a database](https://developer.ibm.com/patterns/transform-load-big-data-csv-files-db2-zos-database/)
-- [2018 Finalist PD3R](https://developer.ibm.com/blogs/call-for-code-finalist-pd3r-uses-artificial-intelligence-for-retrofitting/)
-
 ## Getting started
 
-### Prerequisite
+### Technology 1
 
-You should have a basic understanding of the OpenWhisk programming model. If not, [try the action, trigger, and rule demo first](https://github.com/IBM/openwhisk-action-trigger-rule).
+Description here
 
-Also, you'll need an IBM Cloud account and the latest [OpenWhisk command line tool (`ibmcloud fn`) installed and on your PATH](https://github.com/IBM/openwhisk-action-trigger-rule/blob/master/docs/OPENWHISK.md).
+### Technology 2
 
-As an alternative to this end-to-end example, you might also consider the more [basic "building block" version](https://github.com/IBM/openwhisk-rest-api-trigger) of this sample.
+Description here
 
-### Steps
+### Technology 3
 
-1. [Provision MySQL](#1-provision-mysql)
-2. [Create OpenWhisk actions and mappings](#2-create-openwhisk-actions-and-mappings)
-3. [Test API endpoints](#3-test-api-endpoints)
-4. [Delete actions and mappings](#4-delete-actions-and-mappings)
-5. [Recreate deployment manually](#5-recreate-deployment-manually)
-
-### 1. Provision MySQL
-
-Log into the IBM Cloud and provision a [ClearDB](https://console.ng.bluemix.net/catalog/services/cleardb-mysql-database/) or a [Compose for MySQL](https://console.ng.bluemix.net/catalog/services/compose-for-mysql/) database instance. ClearDB has a free tier for simple testing, while Compose has tiers for larger workloads.
-
-- For [ClearDB](https://console.ng.bluemix.net/catalog/services/cleardb-mysql-database/), log into the ClearDB dashboard, and select the default database created for you. Get the user, password and host information under "Endpoint Information".
-
-- For [Compose](https://console.ng.bluemix.net/catalog/services/compose-for-mysql/), get the information from the `Service Credentials` tab in the IBM Cloud console.
-
-Copy `template.local.env` to a new file named `local.env` and update the `MYSQL_HOSTNAME`, `MYSQL_USERNAME`, `MYSQL_PASSWORD` and `MYSQL_DATABASE` for your MySQL instance.
-
-### 2. Create OpenWhisk actions and mappings
-
-`deploy.sh` is a convenience script reads the environment variables from `local.env` and creates the OpenWhisk actions and API mappings on your behalf. Later you will run these commands yourself.
-
-```bash
-./deploy.sh --install
-```
-
-> **Note**: If you see any error messages, refer to the [Troubleshooting](#troubleshooting) section below. You can also explore [Alternative deployment methods](#alternative-deployment-methods).
-
-### 3. Test API endpoints
-
-There are four helper scripts that simulate HTTP API clients to create, get, update and delete entities against the `/v1/cat` endpoint.
-
-```bash
-# POST /v1/cat {"name": "Tarball", "color": "Black"}
-client/cat-post.sh Tarball Black
-
-# GET /v1/cat?id=1
-client/cat-get.sh 1 # Or whatever integer ID was returned by the command above
-
-# PUT /v1/cat {"id": 1, "name": "Tarball", "color": "Gray"}
-client/cat-put.sh 1 Tarball Gray
-
-# DELETE /v1/cat?id=1
-client/cat-delete.sh 1
-```
-
-### 4. Delete actions and mappings
-
-Use `deploy.sh` again to tear down the OpenWhisk actions and mappings. You will recreate them step-by-step in the next section.
-
-```bash
-./deploy.sh --uninstall
-```
+Description here
 
 ## Resources
 
-- [Words into Action guidelines: Build back better in recovery, rehabilitation and reconstruction](https://www.unisdr.org/we/inform/publications/53213)
-- [Sendai Framework Priority 4: Build Back Better](https://www.youtube.com/watch?v=mRTlS3ZfljM)
-- [Building Back Better: How to Cut Natural Disaster Losses by a Third](https://www.worldbank.org/en/news/press-release/2018/06/18/building-back-better-how-to-cut-natural-disaster-losses-by-a-third)
+### Publications
+- [Resource 1](https://www.unisdr.org/we/inform/publications/53213)
+- [Resource 2](https://www.youtube.com/watch?v=mRTlS3ZfljM)
+- [Resource 3](https://www.worldbank.org/en/news/press-release/2018/06/18/building-back-better-how-to-cut-natural-disaster-losses-by-a-third)
+
+### Documents
+
+- [Document 1](https://www.unisdr.org/we/inform/terminology)
+- [Document 2](https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf)
+- [Document 3](https://www.unisdr.org/files/54970_techguidancefdigitalhr.pdf)
+
+### Datasets
+
+- [Dataset 1](http://www.masdap.mw/)
+- [Dataset 2](http://www.masdap.mw/layers/osm:osm_landusages)
+- [Dataset 3](https://www.preventionweb.net/countries/mwi/data/)
+
+### Technology
+
+- [Technology 1](https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/)
+- [Technology 2](https://developer.ibm.com/patterns/transform-load-big-data-csv-files-db2-zos-database/)
+- [Technology 3](https://developer.ibm.com/blogs/call-for-code-finalist-pd3r-uses-artificial-intelligence-for-retrofitting/)
+
+## Theme team leaders
+
+* Person 1 - Role
+* Person 2 - Role
+* Person 3 - Role
+* [Additional contributors]()
 
 ## License
 

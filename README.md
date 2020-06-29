@@ -50,7 +50,7 @@ This solution starter kit has been initiated by a core leadership team during a 
 
 As part of the Call for Code Emb(race) Challenge, we call on the the IBM and Red Hat community to guide the future of this solution towards an open source project that can be put into use at IBM and made available to the larger world.
 
-Contribution details are in the [CONTRIBUTING.md](blob/main/CONTRIBUTING.md) document. Common questions are in the [SUPPORT.md](blob/main/SUPPORT.md) file. But in a nutshell, you can contribute by opening issues to spark discussions, open pull requests to submit code or documentation changes, or create pages in the wiki.
+Contribution details are in the [CONTRIBUTING.md](CONTRIBUTING.md) document. Common questions are in the [SUPPORT.md](SUPPORT.md) file. But in a nutshell, you can contribute by opening issues to spark discussions, open pull requests to submit code or documentation changes, or create pages in the wiki.
 
 ## Overview
 

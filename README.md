@@ -22,7 +22,6 @@ This is one of three open source projects underway as part of the [Call for Code
    * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.
    * [Open issues](CONTRIBUTING.md#opening-issues), [submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or [edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
 
-
 ## Problem statements
 
 1. [Black employees do not advance at the rate and to the levels of influence in the workplace they should](#problem-statement-1)
@@ -67,7 +66,6 @@ _At this time, datasets are provided for reference only. Do not include dataset 
 
 Real-word bias influences inputs into algorithms, creating algorithmic biases in technology. The effect of thesebiases can range from misrepresentation of the expected end users to inequitable practices in decision making algorithms and consequently possible gap widening.
 
-
 ### Hills (who, what, and wow)
 
 1. A data scientist can identify bias intraining dataand receive corrected data samples to improve training data in less than an hour.
@@ -102,7 +100,6 @@ Reducing algorithmic biases requires a concerted conscience effort by diverse hu
 _At this time, datasets are provided for reference only. Do not include dataset information in any solutions until further notice._
 
 * [AI Fairness 360](https://aif360.mybluemix.net/)
-
 
 ## Problem statement 3
 
@@ -142,7 +139,6 @@ Mobile and web applications can be used to help individuals tackle their own bia
 * [Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684)
 * [Publications as predictors of racial and ethnic differences in NIH research awards](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205929)
 * [Interventions designed to reduce implicit prejudices and implicit stereotypes in real world contexts: a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6524213/)
-
 
 ## Support
 

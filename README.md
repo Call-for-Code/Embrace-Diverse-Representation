@@ -51,9 +51,9 @@ Black employees do not advance at the rate and to the levels of influence in the
 
 #### Publications
 
-* https://www.uschamber.com/sites/default/files/americas_opportunity_gaps_-_by_the_numbers_white_paper_2020_full.pdf
-* https://www.pewresearch.org/fact-tank/2018/01/10/black-stem-employees-perceive-a-range-of-race-related-slights-and-inequities-at-work/
-* https://www.washingtonpost.com/news/capital-business/wp/2016/03/30/talent-matters-the-case-for-reaching-out-to-non-traditional-it-talent/
+* [America's Opportunity Gaps: By the Numbers](https://www.uschamber.com/sites/default/files/americas_opportunity_gaps_-_by_the_numbers_white_paper_2020_full.pdf)
+* [Black STEM employees perceive a range of race-related slights and inequities at work](https://www.pewresearch.org/fact-tank/2018/01/10/black-stem-employees-perceive-a-range-of-race-related-slights-and-inequities-at-work/)
+* [Talent Matters: The case for reaching out to non-traditional IT talent](https://www.washingtonpost.com/news/capital-business/wp/2016/03/30/talent-matters-the-case-for-reaching-out-to-non-traditional-it-talent/)
 
 #### Datasets
 
@@ -84,25 +84,24 @@ Reducing algorithmic biases requires a concerted conscience effort by diverse hu
 
 #### Publications 
 
-* https://www.nature.com/articles/d41586-018-05469-3
-* https://www.nature.com/articles/d41586-019-03228-6
-* https://science.sciencemag.org/content/366/6464/447
-* https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias/#55316b0d5ed3
-* https://uxdesign.cc/ethical-dilemmas-of-ai-fairness-transparency-human-machine-collaboration-trust-accountability-1fe9fc0ffff3
-* https://www.nature.com/articles/d41586-019-03228-6
-* https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-algorithim-racial-bias
-* https://arxiv.org/abs/1810.01943
-* https://aif360.mybluemix.net/resources
+* [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
+* [Millions of black people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
+* [Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
+* [How Explainable AI Is Helping Algorithms Avoid Bias](https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias/#55316b0d5ed3)
+* [Ethical dilemmas of AI: fairness, transparency, collaboration, trust, accountability & morality](https://uxdesign.cc/ethical-dilemmas-of-ai-fairness-transparency-human-machine-collaboration-trust-accountability-1fe9fc0ffff3)
+* [This Researcher's Observation Shows The Uncomfortable Bias Of TikTok's Algorithm](https://www.buzzfeednews.com/article/laurenstrapagiel/tiktok-algorithim-racial-bias)
+* [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/abs/1810.01943)
+* [AI Fairness 360: Resources](https://aif360.mybluemix.net/resources)
 
 #### Documents
 
-* https://arxiv.org/abs/1810.01943
+* [AI Fairness 360: An Extensible Toolkit for Detecting, Understanding, and Mitigating Unwanted Algorithmic Bias](https://arxiv.org/abs/1810.01943)
 
 #### Datasets
 
 _At this time, datasets are provided for reference only. Do not include dataset information in any solutions until further notice._
 
-* https://aif360.mybluemix.net/
+* [AI Fairness 360](https://aif360.mybluemix.net/)
 
 
 ## Problem statement 3
@@ -115,10 +114,9 @@ Mobile and web applications can be used to help individuals tackle their own bia
 
 ### Hills (who, what, and wow)
 
-1. A media content editor (e.g., audio, gaming, movies, tv, comics, news, publications) can incorporate bias detection and remediation into their creative process to reduce racial bias 
-and improve representation to [Gen Z][<vw: why Gen Z only?Could this be more broadly applicable to all media consumers?]media consumers.
+1. A media content editor (e.g., audio, gaming, movies, tv, comics, news, publications) can incorporate bias detection and remediation into their creative process to reduce racial bias and improve representation to Gen Z.
 
-2. A media consumer can track the quantity and bias in their consumption of content from [Black][<vw: “Black” is changed to “black” above; let’s be consistent]creators or about Black people in an easy interface.
+2. A media consumer can track the quantity and bias in their consumption of content from Black creators or about Black people in an easy interface.
 
 3. A social media user can understand the historical and societal context of racial bias and cultural appropriation reflected in their posts in real time.
 
@@ -128,23 +126,22 @@ and improve representation to [Gen Z][<vw: why Gen Z only?Could this be more bro
 
 #### Publications 
 
-* https://techcrunch.com/2020/06/21/confronting-racial-bias-in-video-games/
-* https://www.npr.org/sections/codeswitch/2014/01/11/261449394/who-gets-to-be-a-superhero-race-and-identity-in-comics
-* https://acphospitalist.org/archives/2016/01/bias-and-disparities.htm
-* https://qz.com/quartzy/1738478/how-teens-on-tiktok-are-perpetuating-racist-stereotypes/
-* https://www.netflix.com/title/81243942
-* https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html
-* https://www.slrlounge.com/unfortunate-history-racial-bias-photography/
-* https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660
-* https://www.sciencedirect.com/science/article/abs/pii/S0167268112000686
-* https://www.tandfonline.com/doi/abs/10.1080/03637751.2019.1613670?journalCode=rcmm20
-* https://en.wikipedia.org/wiki/Race_and_video_games
-* https://techcrunch.com/2020/06/21/confronting-racial-bias-in-video-games/
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4559151/
-* https://fairplaygame.org/resources/
-* https://www.pnas.org/content/117/14/7684
-* https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205929
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6524213/
+* [Confronting racial bias in video games](https://techcrunch.com/2020/06/21/confronting-racial-bias-in-video-games/)
+* [Who Gets To Be A Superhero? Race And Identity In Comics](https://www.npr.org/sections/codeswitch/2014/01/11/261449394/who-gets-to-be-a-superhero-race-and-identity-in-comics)
+* [Fighting the subconscious biases that lead to health care disparities](https://acphospitalist.org/archives/2016/01/bias-and-disparities.htm)
+* [Teens on TikTok have no clue they’re perpetuating racist stereotypes](https://qz.com/quartzy/1738478/how-teens-on-tiktok-are-perpetuating-racist-stereotypes/)
+* [They've Gotta Have Us](https://www.netflix.com/title/81243942)
+* [The Racial Bias Built Into Photography](https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html)
+* [The Unfortunate History of Racial Bias In Photography](https://www.slrlounge.com/unfortunate-history-racial-bias-photography/)
+* [What Hollywood movies do to perpetuate racial stereotypes](https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660)
+* [Racial bias in expert quality assessment: A study of newspaper movie reviews](https://www.sciencedirect.com/science/article/abs/pii/S0167268112000686)
+* [Crossing the color line: An examination of mediators and a social media intervention for racial bias in selective exposure to movies](https://www.tandfonline.com/doi/abs/10.1080/03637751.2019.1613670?journalCode=rcmm20)
+* [Race and video games](https://en.wikipedia.org/wiki/Race_and_video_games)
+* [“Fair Play”: A Videogame Designed to Address Implicit Race Bias Through Active Perspective Taking](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4559151/)
+* [Fair Play Game: Resources](https://fairplaygame.org/resources/)
+* [Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684)
+* [Publications as predictors of racial and ethnic differences in NIH research awards](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205929)
+* [Interventions designed to reduce implicit prejudices and implicit stereotypes in real world contexts: a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6524213/)
 
 
 ## Support

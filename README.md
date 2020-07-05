@@ -12,11 +12,11 @@ This is one of three open source projects underway as part of the [Call for Code
 
 1. **Engage**
    * Understand the [problem statements](#problem-statements) in this solution starter GitHub repository.   
-   * Connect with colleagues in [Slack](SLACK.md) to join one of the teams collaboratively working on solutions to this problem.
+   * Connect with colleagues in [Slack](SLACK.md) to join one of the teams working on solutions to this problem.
 
 2. **Envision**
    * Imagine the measurable end result of a technology innovation for one of the problem statements.
-   * Plot a path from the current situation to that outcome. You can use [Mural](https://www.mural.co/) and [Slack](SLACK.md) to collaborate on solutions.
+   * Plot a path from the current situation to that outcome. You can use [Mural](https://www.mural.co/) and [Slack](SLACK.md) to collaborate.
 
 3. **Contribute**
    * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.

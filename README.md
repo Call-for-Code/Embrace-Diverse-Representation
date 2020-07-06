@@ -83,7 +83,7 @@ Reducing algorithmic biases requires a concerted conscience effort by diverse hu
 #### Publications 
 
 * [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
-* [Millions of black people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
+* [Millions of Black people affected by racial bias in health-care algorithms](https://www.nature.com/articles/d41586-019-03228-6)
 * [Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447)
 * [How Explainable AI Is Helping Algorithms Avoid Bias](https://www.forbes.com/sites/simonchandler/2020/02/18/how-explainable-ai-is-helping-algorithms-avoid-bias/#55316b0d5ed3)
 * [Ethical dilemmas of AI: fairness, transparency, collaboration, trust, accountability & morality](https://uxdesign.cc/ethical-dilemmas-of-ai-fairness-transparency-human-machine-collaboration-trust-accountability-1fe9fc0ffff3)

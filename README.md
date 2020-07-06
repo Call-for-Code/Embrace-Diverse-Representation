@@ -25,7 +25,7 @@ This is one of three open source projects underway as part of the [Call for Code
 ## Problem statements
 
 1. [Black employees do not advance at the rate and to the levels of influence in the workplace they should](#problem-statement-1)
-2. [Real-word bias influences inputs into algorithms, creating algorithmic biases in technology](#problem-statement-2)
+2. [Real-world bias influences inputs into algorithms, creating algorithmic biases in technology](#problem-statement-2)
 3. [Bias is learned and perpetuated in different ways](#problem-statement-3)
 
 ## Problem statement 1
@@ -38,7 +38,7 @@ Black employees do not advance at the rate and to the levels of influence in the
 
 2. A performance reviewer can receive real-time feedback and suggestions on possible bias in their evaluations.
 
-3. An employee can know how common the microaggressions they face at work is arewithout talking to others.
+3. An employee can know how common the microaggressions they face at work is are without talking to others.
 
 4. A senior manager can quantify and receive recommendations on their team's inclusivity of Black employees in high visibility discussions and opportunities, and the diversity of their in-office communications in an easy to navigate dashboard.
 
@@ -64,11 +64,11 @@ _At this time, datasets are provided for reference only. Do not include dataset 
 
 ## Problem statement 2
 
-Real-word bias influences inputs into algorithms, creating algorithmic biases in technology. The effect of thesebiases can range from misrepresentation of the expected end users to inequitable practices in decision making algorithms and consequently possible gap widening.
+Real-world bias influences inputs into algorithms, creating algorithmic biases in technology. The effect of these biases can range from misrepresentation of the expected end users to inequitable practices in decision making algorithms and consequently possible gap widening.
 
 ### Hills (who, what, and wow)
 
-1. A data scientist can identify bias intraining dataand receive corrected data samples to improve training data in less than an hour.
+1. A data scientist can identify bias in training data and receive corrected data samples to improve training data in less than an hour.
 
 2. A developer can test their algorithms for bias on diverse datasets and receive recommendations on how to de-bias their algorithms.
 

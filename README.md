@@ -40,6 +40,16 @@ led by contributors from IBM and Red Hat.
      [submit pull requests](CONTRIBUTING.md#submitting-pull-requests), or 
      [edit the wiki](CONTRIBUTING.md#editing-the-wiki) for this repository.
 
+## Goal for this project
+
+The desired outcome of this effort is to create a technology solution that can
+have a measurable impact the problem statements and hills below. That solution
+can then be put to work within IBM and Red Hat, as well as society at large.
+
+As an example, this repository will evolve into a piece of technology that can
+be created and deployed, similar to the steps for other [Call for Code starter
+kits](https://github.com/Call-for-Code).
+
 ## Problem statements
 
 1. [Black employees do not advance at the rate and to the levels of influence

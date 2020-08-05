@@ -93,6 +93,11 @@ processes.
   workplace use to increase transparency and reduce bias in the hiring,
   retention, and promotion pipeline.
 
+### Teams working on this problem
+
+[See who's already working on this problem and join a 
+team](https://ibm.box.com/s/ucthwj1hdr8c1ouwvnlgt27zbikj2nr5).
+
 ### Resources
 
 #### Publications
@@ -144,6 +149,11 @@ human-in-the-loop teams with robust algorithmic evaluation and development.
 Evaluation metrics, bias-mitigation algorithms, and dashboards have critical
 roles to help teams reduce potential biases in their products.
 
+### Teams working on this problem
+
+[See who's already working on this problem and join a 
+team](https://ibm.box.com/s/ucthwj1hdr8c1ouwvnlgt27zbikj2nr5).
+
 ### Resources
 
 #### Publications 
@@ -182,19 +192,6 @@ Bias is learned and perpetuated in different ways (e.g. societal beliefs,
 misrepresentation, ignorance) that consequently create inequitable outcomes
 across all spheres of life.
 
-### How tech can help
-
-Mobile and web applications can be used to help individuals tackle their own
-bias. Bias detection algorithms, machine learning based recommendation
-systems, chatbots, and predictive analytics are powerful tools to underpin
-these applications.Such technology has impactful use in various forms of
-media to more fairly diversely represent people qualitatively (by capturing
-a range of identifiable characteristics, beliefs, personas, interests,
-cultures) and quantitatively (by increasing overall and stratified numbers).
-A by-product of such interventions is the elimination of incorrect biased
-stereotypes that have historically plagued media content generation and
-natural language.
-
 ### Hills (who, what, and wow)
 
 1. A media content editor (e.g., audio, gaming, movies, tv, comics, news,
@@ -210,6 +207,24 @@ natural language.
 4. A doctor can identify their bias and discrepancies in clinical
    recommendations for Black patients without manual comparison of patients' 
    notes.
+
+### How tech can help
+
+Mobile and web applications can be used to help individuals tackle their own
+bias. Bias detection algorithms, machine learning based recommendation
+systems, chatbots, and predictive analytics are powerful tools to underpin
+these applications.Such technology has impactful use in various forms of
+media to more fairly diversely represent people qualitatively (by capturing
+a range of identifiable characteristics, beliefs, personas, interests,
+cultures) and quantitatively (by increasing overall and stratified numbers).
+A by-product of such interventions is the elimination of incorrect biased
+stereotypes that have historically plagued media content generation and
+natural language.
+
+### Teams working on this problem
+
+[See who's already working on this problem and join a 
+team](https://ibm.box.com/s/ucthwj1hdr8c1ouwvnlgt27zbikj2nr5).
 
 ### Resources
 
